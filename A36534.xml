@@ -1,0 +1,933 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dregs of drollery, or Old poetry in its ragges a full cry of hell-hounds unkennelled to go a king-catching : to the tune of Chevy-chace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36534</idno>
+            <idno type="STC">Wing D2158</idno>
+            <idno type="STC">ESTC R1492</idno>
+            <idno type="EEBO-CITATION">12265125</idno>
+            <idno type="OCLC">ocm 12265125</idno>
+            <idno type="VID">58011</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 181:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dregs of drollery, or Old poetry in its ragges a full cry of hell-hounds unkennelled to go a king-catching : to the tune of Chevy-chace.</title>
+               </titleStmt>
+               <extent>27 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Political satire in verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Poetry.</term>
+               <term>Cromwell, Oliver, 1599-1658 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58011:1"/>
+            <pb facs="tcp:58011:1"/>
+            <p> DREGS OF DROLLERY<g ref="char:punc">▪</g> OR OLD POETRY IN ITS RAGGES.</p>
+            <p>A full cry of <hi>Hell-hounds</hi> unkennelled to go a King-catching;</p>
+            <p>To the Tune of <hi>Chevy-Chace:</hi>
+            </p>
+            <p>LONDON, Printed in the year 1660.</p>
+            <pb facs="tcp:58011:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:58011:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>O His moſt Honoured Friend and Couſin, <hi>George</hi> Lord <hi>Monk,</hi> 
+               <g ref="char:V">Ʋ</g>icount <hi>Poderidge,</hi> Duke of <hi>Albemarle,</hi> Earl of <hi>Eſſex,</hi> Knight of the moſt No<g ref="char:EOLhyphen"/>ble Order of the Garter, Lord Ge<g ref="char:EOLhyphen"/>neral of all His Majesties Forces in the three Kingdoms, Maſter of his Horſe, and one of his moſt Honourable Privy-Council.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="poem">
+                  <pb facs="tcp:58011:3"/>
+                  <pb n="5" facs="tcp:58011:3"/>
+                  <head>DREGS OF DROLLERY, OR OLD POETRY In its Raggs, &amp;c.</head>
+                  <opener>To the Tune of Chevy-Chaſe.</opener>
+                  <lg n="1">
+                     <head>1.</head>
+                     <l>
+                        <seg rend="decorInit">O</seg>F Buck-hunting, and Fox-catching</l>
+                     <l>I have heard; But th'Royal Game,</l>
+                     <l>King-catching, nere was heard of yet,</l>
+                     <l>From the ſhrill Trumpet of Fame.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>Yet this unheard of drerefull ſport,</l>
+                     <l>I ſadly ſit and ſing;</l>
+                     <pb n="6" facs="tcp:58011:4"/>
+                     <l>By Rebel Rogues acted upon</l>
+                     <l>As gratious, as great King.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>His <hi>Judas</hi> ſervants firſt are the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>That for unrighteous wages;</l>
+                     <l>Him ſhamefully into th'hands betray</l>
+                     <l>Of Jewiſh bloudy Sages.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>To him all things preſented are,</l>
+                     <l>Diſordered in the Nation;</l>
+                     <l>And therefore muſt a Parliament,</l>
+                     <l>Be call'd for Reformation.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>5.</head>
+                     <l>
+                        <hi>Pembroke</hi> the wiſe, his mouth now ope's,</l>
+                     <l>And telleth him that he's nigh ill;</l>
+                     <l>And that there now remains no hope,</l>
+                     <l>(As he hath heard from <hi>Mighill)</hi>
+                     </l>
+                  </lg>
+                  <lg n="6">
+                     <head>6.</head>
+                     <l>To ſage advice his eare bow down,</l>
+                     <l>Unleſs he ſhall prove willing;</l>
+                     <l>Loſe ſurely he will, his triple Crown,</l>
+                     <l>Call'd <hi>alias</hi> fifteen Shilling.</l>
+                  </lg>
+                  <lg n="7">
+                     <head>7.</head>
+                     <l>A monſtrous hand is then held forth</l>
+                     <l>Of one of <hi>Anak's</hi> ſons;</l>
+                     <l>With ſix Fingers, that their deſign,</l>
+                     <l>Even he may read that runs.</l>
+                  </lg>
+                  <lg n="8">
+                     <head>8.</head>
+                     <l>And that ſtrange antick names be not</l>
+                     <l>Wanting to theſe Diſſemblers;</l>
+                     <l>Theſe ſignally muſt now be call'd,</l>
+                     <l>
+                        <hi>Kimbolton</hi> and five Members.</l>
+                  </lg>
+                  <lg n="9">
+                     <pb n="7" facs="tcp:58011:4"/>
+                     <head>9.</head>
+                     <l>Theſe on a roar the whole houſe ſet</l>
+                     <l>Impetuouſly a crying,</l>
+                     <l>The peoples peace can't be redeem'd</l>
+                     <l>Without great <hi>Strafford</hi>'s dying.</l>
+                  </lg>
+                  <lg n="10">
+                     <head>10.</head>
+                     <l>Then tumults raiſe they ſuch, no ſound</l>
+                     <l>Is to be heard to ring,</l>
+                     <l>But firſt we will no Biſhops have,</l>
+                     <l>And then wee'l have no King.</l>
+                  </lg>
+                  <lg n="11">
+                     <head>11.</head>
+                     <l>And theſe like Bull-dogs traind indeed,</l>
+                     <l>Firſt fly't the Biſhops head,</l>
+                     <l>And never leave their hot purſuit,</l>
+                     <l>Till <hi>Canterbury's</hi> dead.</l>
+                  </lg>
+                  <lg n="12">
+                     <head>12.</head>
+                     <l>Our bleſſed brethren then, the <hi>Scots,</hi>
+                     </l>
+                     <l>Muſt come into our aid;</l>
+                     <l>For which their love they muſt have Pounds</l>
+                     <l>Three hundred thouſand paid.</l>
+                  </lg>
+                  <lg n="13">
+                     <head>13.</head>
+                     <l>Horn'd <hi>Eſſex</hi> then into Regiments</l>
+                     <l>Divides his City power;</l>
+                     <l>For which horn'd beaſts all ſtill ſhall be</l>
+                     <l>Upon Record i'th Tower.</l>
+                  </lg>
+                  <lg n="14">
+                     <head>14.</head>
+                     <l>And <hi>Atkins</hi> then with his wide ſtretch</l>
+                     <l>Doth his great Horſe beſtraddle,</l>
+                     <l>That of the colour of his Chain,</l>
+                     <l>Eftſoons he makes his ſaddle.</l>
+                  </lg>
+                  <lg n="15">
+                     <head>15.</head>
+                     <l>Then's <hi>Edge-Hill-</hi>Fight, where whil'ſt is ſeen</l>
+                     <l>Many a brave ſoul on the ground,</l>
+                     <pb n="8" facs="tcp:58011:5"/>
+                     <l>Stout <hi>Wharton</hi> with his <hi>Morglai</hi> keen,</l>
+                     <l>Is in a <hi>Saw-pit</hi> found.</l>
+                  </lg>
+                  <lg n="16">
+                     <head>16.</head>
+                     <l>With more than good ſpeed, then to'th' Town</l>
+                     <l>of <hi>Gloster</hi> high's our Liege;</l>
+                     <l>And with a courage like himſelf,</l>
+                     <l>Layeth to it a cloſe Siege</l>
+                  </lg>
+                  <lg n="17">
+                     <head>17.</head>
+                     <l>Him after Cuckold <hi>Eſſex Posts,</hi>
+                     </l>
+                     <l>And cloſe to work he falls;</l>
+                     <l>And with his Rams horns, <hi>Joſuah-</hi>like<g ref="char:punc">▪</g>
+                     </l>
+                     <l>He bloweth down the City walls.</l>
+                  </lg>
+                  <lg n="18">
+                     <head>18.</head>
+                     <l>And thence away with winged ſpeed,</l>
+                     <l>Getteth him into the <hi>Weſt:</hi>
+                     </l>
+                     <l>The King he followeth ſoon, and chaſe</l>
+                     <l>Giveth to this Royal Beaſt<g ref="char:punc">▪</g>
+                     </l>
+                  </lg>
+                  <lg n="19">
+                     <head>19.</head>
+                     <l>Thence to <hi>Exon</hi> come, and there having chear'd</l>
+                     <l>His Dear, and bleſs'd his baby;</l>
+                     <l>To <hi>Oxon</hi> then he haſteth away,</l>
+                     <l>With all the ſpeed that may be.</l>
+                  </lg>
+                  <lg n="20">
+                     <head>20.</head>
+                     <l>And now, when <hi>Eſſex</hi> had his hire</l>
+                     <l>Of treaſon, by poiſon, paid;</l>
+                     <l>And all his valiant traiterous acts,</l>
+                     <l>By th'wall <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> are laid.</l>
+                  </lg>
+                  <lg n="21">
+                     <head>21.</head>
+                     <l>Black <hi>Tom</hi> in this curs'd Cuckolds place,</l>
+                     <l>Being now his <hi>Oxcellence</hi> grown,</l>
+                     <l>Tamely he hopes the King to ſeize,</l>
+                     <l>But findes this great Bird flown.</l>
+                  </lg>
+                  <lg n="22">
+                     <pb n="9" facs="tcp:58011:5"/>
+                     <head>22.</head>
+                     <l>The King is now the Scottiſh Faith,</l>
+                     <l>For ſafety, forc'd to ſound;</l>
+                     <l>But baſely they him deliver up,</l>
+                     <l>For two hundred thouſand pound.</l>
+                  </lg>
+                  <lg n="23">
+                     <head>23.</head>
+                     <l>Now, for's poſſeſſion, to <hi>Holmeby</hi> brought,</l>
+                     <l>One ſtriveth to out-wit another;</l>
+                     <l>But the Independents here's too hard</l>
+                     <l>For his Presbyterian brother.</l>
+                  </lg>
+                  <lg n="24">
+                     <head>24.</head>
+                     <l>Thence to <hi>Hampton-Court</hi> in triumph led,</l>
+                     <l>He's there put in t'a fright,</l>
+                     <l>B' Horſe-regiments, and therefore muſt</l>
+                     <l>Away to th'Iſle of <hi>Wight.</hi>
+                     </l>
+                  </lg>
+                  <lg n="25">
+                     <head>25.</head>
+                     <l>Cowes Caſtles firſt for th' captive King,</l>
+                     <l>Thought a convenient warde;</l>
+                     <l>But then, for more ſecurity,</l>
+                     <l>Hurſte Caſtle a ſtronger guard.</l>
+                  </lg>
+                  <lg n="26">
+                     <head>26.</head>
+                     <l>To <hi>James</hi> then firſt, thence <hi>Weſtminſter,</hi>
+                     </l>
+                     <l>Where he receives his charge,</l>
+                     <l>From more Tertulluſs's than one,</l>
+                     <l>Whereon they boldl' inlarge.</l>
+                  </lg>
+                  <lg n="27">
+                     <head>27.</head>
+                     <l>Black <hi>Bradſhaw</hi> then in Bloud-red-robes,</l>
+                     <l>Old <hi>Pontius Pilate</hi> acts;</l>
+                     <l>And paſſeth on our Soveraign Lord,</l>
+                     <l>Sentence for traiterous acts.</l>
+                  </lg>
+                  <lg n="28">
+                     <head>28.</head>
+                     <l>To <hi>White-Hall</hi> laſt, his Royal Seat,</l>
+                     <l>With ſtrong guards they him bring;</l>
+                     <pb n="10" facs="tcp:58011:6"/>
+                     <l>To go forth from his Banquetting-houſe,</l>
+                     <l>To an Heavenly banquetting.</l>
+                  </lg>
+                  <lg n="29">
+                     <head>29.</head>
+                     <l>One of's accuſers, <hi>Doriſlaus,</hi>
+                     </l>
+                     <l>To his place (you know) is gone;</l>
+                     <l>With <hi>Hoil,</hi> his Judge; and what o'th'reſt<g ref="char:punc">▪</g>
+                     </l>
+                     <l>Becomes, you'l hear anon.</l>
+                  </lg>
+                  <lg n="30">
+                     <head>30.</head>
+                     <l>And that all the Kings Enemies,</l>
+                     <l>May proſper as did they,</l>
+                     <l>All Loyal Subjects of the King,</l>
+                     <l>I'm ſure, will heart'ly pray.</l>
+                  </lg>
+                  <epigraph>
+                     <q>The Wiſe man dyeth as the Fool;</q>
+                     <bibl>
+                        <hi>Eccleſ.</hi> 2. 16.</bibl>
+                  </epigraph>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="poems">
+                  <pb n="11" facs="tcp:58011:6"/>
+                  <div type="hymn">
+                     <head>An Hymne, penned by an old Barde; but ſet to a new Tune of a latter date (<hi>When I came firſt to</hi> Lon<g ref="char:EOLhyphen"/>don <hi>Town;</hi>) and now the rather thus far expoſed to publick view; for that it is conceived to have ſomething of a Prophetick Spirit in it.</head>
+                     <lg n="1">
+                        <head>1.</head>
+                        <l>NOw Counter-march <hi>Noll</hi> and face about;</l>
+                        <l>The time is at hand of thy fatal rout;</l>
+                        <l>Now the Lords Anointed begins t'appear;</l>
+                        <l>No more room for thy Saints, and Idols is hear:</l>
+                        <l>And now that theſe ceaſe their phanatick noiſes,</l>
+                        <l>Gods Preachers ſpite of thee, ſhall lift up their voices.</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>The Souldier may practice now every day,</l>
+                        <l>To trail his Pike a funeral way.</l>
+                        <l>No ſound to be heard from the beat of the Drums,</l>
+                        <l>But look about <hi>Oliver, Rowland</hi> comes:</l>
+                        <l>And all the notes, the clarions ſound,</l>
+                        <l>Is <hi>Noll</hi> muſt on a dry Hill be drown'd.</l>
+                     </lg>
+                     <lg n="3">
+                        <pb n="12" facs="tcp:58011:7"/>
+                        <head>3.</head>
+                        <l>'Tis time for thee <hi>Oliver</hi> to turn Hector,</l>
+                        <l>For General thou maiſt not be and Protector.</l>
+                        <l>Look well to thy ſelf; ſince the people all cry,</l>
+                        <l>
+                           <hi>Noll</hi> muſt a <hi>Tibur-</hi>Martyr dye.</l>
+                        <l>And 'tis their only unanimous vote,</l>
+                        <l>An Haltar's the knife muſt cut <hi>Nolls</hi> throat.</l>
+                     </lg>
+                     <lg n="4">
+                        <head>4.</head>
+                        <l>Now plaints of all ſorts are entred the ears</l>
+                        <l>Of the Higheſt, with Widows and Orphants tears;</l>
+                        <l>Theſe unto him will ne'r ceaſe to cry,</l>
+                        <l>Till ſhamefully <hi>Noll</hi> there come to dye,</l>
+                        <l>And theſe ſuch vengeance ſhall draw down on thine head;</l>
+                        <l>As ſhall make thy Noſe look <hi>Hell-fire</hi> red.</l>
+                     </lg>
+                     <lg n="5">
+                        <head>5.</head>
+                        <l>Now <hi>Mopſa</hi> muſt ceaſe to be a <hi>Queen,</hi>
+                        </l>
+                        <l>And lye on her Parſley-bed ſo green;</l>
+                        <l>And from her high ſurfet of courtly wiſhes,</l>
+                        <l>Learn her old trade of waſhing the diſhes.</l>
+                        <l>And ſince her old <hi>Oliver's</hi> going to his place,</l>
+                        <l>Finde out a new Traytor, to regain her Grace.</l>
+                     </lg>
+                     <lg n="6">
+                        <head>6.</head>
+                        <l>And now her <hi>Jone-ſhip</hi> the three Kingdoms ſway,</l>
+                        <l>Seeth that no longer ſhe continue may;</l>
+                        <l>That ſhe may yet in ſome way be ſerv'd,</l>
+                        <l>Though ſhe nor bread nor water e're deſerv'd;</l>
+                        <l>From her new <hi>Blackhall</hi> time that ſhe addreſs her,</l>
+                        <l>To her old Royal Palace of <hi>Gurmunt-Cheſter.</hi>
+                        </l>
+                     </lg>
+                     <lg n="7">
+                        <head>7.</head>
+                        <l>Now <hi>Salisbury</hi> and <hi>Pembroke,</hi> thoſe two lofty Knaves,</l>
+                        <l>That baſe <hi>Lenthals</hi> tamely are far baſer ſlaves;</l>
+                        <l>That take't for a character of their noble ſtrain,</l>
+                        <l>Like Hand-men, to bear up this poor Speakers train.</l>
+                        <pb n="13" facs="tcp:58011:7"/>
+                        <l>
+                           <hi>Dove, Garter,</hi> as thoſe ſpurs, ſhall jointly looſe,</l>
+                        <l>Whil'ſt <hi>Oliver</hi>'s neck's tyed up in a Nooſe.</l>
+                     </lg>
+                     <lg n="8">
+                        <head>8.</head>
+                        <l>Now <hi>Pride</hi> to his <hi>Grain-tub</hi> muſt retire,</l>
+                        <l>And <hi>Barkſteade</hi> to's trying of droſs by fire:</l>
+                        <l>The one for his <hi>Creſt</hi> a <hi>Thimble</hi> ſhall wear,</l>
+                        <l>The other for his <hi>Armes</hi> a <hi>Sling</hi> ſhall bear.</l>
+                        <l>And <hi>Vinour</hi> and <hi>Pack</hi> their ſpurs ſhall looſe,</l>
+                        <l>Whil'ſt <hi>Oliver's</hi> neck's tyed up in a Nooſe.</l>
+                     </lg>
+                     <lg n="9">
+                        <head>9.</head>
+                        <l>Now high time for <hi>Prideaux</hi> to hye him away</l>
+                        <l>To <hi>Black-Hall,</hi> where great <hi>Abaddon</hi> bears ſway;</l>
+                        <l>And ſince that of late he's drop'd into <hi>Hell,</hi>
+                        </l>
+                        <l>Where the <hi>Devil</hi> on his bones are feaſting full well;</l>
+                        <l>And his <hi>Soul</hi> in the <hi>Lake</hi> the Saints ſtill ſee burn,</l>
+                        <l>By Poſte 'twill be late to bethink of return.</l>
+                     </lg>
+                     <lg n="10">
+                        <head>10.</head>
+                        <l>Now the <hi>Eagles chicks,</hi> with his wings diſplaid,</l>
+                        <l>Gins bravely t'appear, by his faſt friends aid;</l>
+                        <l>And <hi>Copleſtone</hi> with his ſharp edge eyeing,</l>
+                        <l>And the thin skull of his falſe honour deſcrying,</l>
+                        <l>On his <hi>Cople-crown</hi> a ſtone ſhall let fall,</l>
+                        <l>And ſo ſpoyl a Knight and a General.</l>
+                     </lg>
+                     <lg n="11">
+                        <head>11.</head>
+                        <l>Time then <hi>Doctor Walker</hi> in haſte be fetch'd,</l>
+                        <l>To make his laſt Will, whoſe neck muſt be ſtretch'd,</l>
+                        <l>And thus religiouſly he begins,</l>
+                        <l>'Tis too late repent me of mine old ſins;</l>
+                        <l>And therefore my ſoul, after its long night,</l>
+                        <l>To him <hi>I</hi> bequeath, hath to it moſt right.</l>
+                     </lg>
+                     <lg n="12">
+                        <head>12.</head>
+                        <l>To <hi>Bradſhaw I</hi> give my cruelty,</l>
+                        <l>To <hi>ſay</hi> and <hi>ſeale</hi> mine hypocriſie:</l>
+                        <pb n="14" facs="tcp:58011:8"/>
+                        <l>To Commiſſioner <hi>Fines</hi> my cowardiſe,</l>
+                        <l>To <hi>Atty Haſelrigge</hi> my covetiſe;</l>
+                        <l>Mine heart to my Miſtris, <hi>Lamberts</hi> wife,</l>
+                        <l>When th'Gallows ſhall me have bereaft of life.</l>
+                     </lg>
+                     <lg n="13">
+                        <head>13.</head>
+                        <l>Return ſhall we to our Trade, <hi>Pride</hi> thou ſhalt be</l>
+                        <l>Great Elder of our <hi>Swine-Preſbytery;</hi>
+                        </l>
+                        <l>And we having by Money got, and the Law of clubs,</l>
+                        <l>We'l reconverſe gladly with our Draugh-tubs;</l>
+                        <l>And the <hi>Swine</hi> all the week we have fed with Draught</l>
+                        <l>From the ſame Tubs on the <hi>Sabbath</hi> ſhall rarely be taught.</l>
+                     </lg>
+                     <lg n="14">
+                        <head>14.</head>
+                        <l>And now, as the <hi>Swedes</hi> late frantick Queen,</l>
+                        <l>Since no longer <hi>I</hi> may be what <hi>I</hi> have been.</l>
+                        <l>O! That <hi>I</hi> might to <hi>Jamaica</hi> go!</l>
+                        <l>But that way's obſtructed both to and fro:</l>
+                        <l>The place then <hi>I</hi> finde muſt, for which <hi>I</hi> am bent,</l>
+                        <l>Whither mine <hi>Harbinger Hannum</hi> before <hi>I</hi> have ſent.</l>
+                     </lg>
+                  </div>
+                  <div type="mock-panegyric_poem">
+                     <head>Or this mock Mock-panegyrick.</head>
+                     <lg>
+                        <l>HOw doth the preſent State towards us abound,</l>
+                        <l>From whom ought nothing, but divine Truth ſound?</l>
+                        <l>How do they their late Anceſtors out-vie,</l>
+                        <l>Towards our <hi>Tribe</hi> in works of piety?</l>
+                        <l>The former is confin'd to a petty cure,</l>
+                        <l>And whil'ſt t'a Directory they us enure;</l>
+                        <l>Though the pains they ſpar'd us of a ſtudied Prayer,</l>
+                        <l>Yet made they each Pulpit their triumphant Chair.</l>
+                        <pb n="15" facs="tcp:58011:8"/>
+                        <l>Theſe our Commiſſion gratiouſly enlarge,</l>
+                        <l>And grant each of us an <hi>Apoſtles</hi> charge.</l>
+                        <l>The former forc'd us with our dawbing praiſe,</l>
+                        <l>Baſely to follow their triumphant Baies.</l>
+                        <l>Theſe, as the pureſt Gold, trying us by fire,</l>
+                        <l>Their worth conſtraines in ſilence to admire:</l>
+                        <l>So that cauſe it ſpeak to the heigth none can,</l>
+                        <l>We may no longer ſpeak of God, or Man;</l>
+                        <l>And yet, whilſt <hi>Egypt</hi>'s Taskmaſters did ſore</l>
+                        <l>Oppreſs God<hi>'s</hi> people, as they ſtill the more</l>
+                        <l>Increaſt; whilſt there our Biſhops ſtrive to rowt</l>
+                        <l>Both Root and Branch, they thus ſtill thick ſprowt.</l>
+                        <l>Each ſuch a Biſhop now, as hath no leſs</l>
+                        <l>Than the whole World for his vaſt Dioceſs.</l>
+                        <l>And ſo are made now, by this bleſſed Crew;</l>
+                        <l>Thouſands of <hi>Gentiles</hi> for one wandering <hi>Jew.</hi>
+                        </l>
+                        <l>And therefore, when, with brave acts of your glory;</l>
+                        <l>You ſhall great volumes fill of <hi>Ballad-ſtory;</hi>
+                        </l>
+                        <l>Whilſt daily at t' <hi>Andrews</hi> corner there are ſung,</l>
+                        <l>The <hi>Ropes</hi> ſhall be yours, wherewith the Bels are rung.</l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <head>Of <hi>Tombs</hi> his being Preacher in the <hi>Temple,</hi> And then afterwards a new Gate made thereinto from the <hi>Divel-Tavern.</hi>
+                     </head>
+                     <lg>
+                        <l>ONce near the <hi>Temples</hi> pinacle was ſeen</l>
+                        <l>A Spirit unclean, and that the like hath been</l>
+                        <l>Mongſt <hi>Tombs</hi> I've heard, ſo that not ſtrange to ſee</l>
+                        <l>
+                           <hi>Tombs</hi> and the Divel ſweetly to agree.</l>
+                        <pb n="16" facs="tcp:58011:9"/>
+                        <l>
+                           <hi>Tombes</hi> was the firſt, this <hi>Divels</hi> morrice led;</l>
+                        <l>Since thouſands are there, him have followed:</l>
+                        <l>'Twixt the <hi>Devil</hi> and <hi>Temple</hi> ſince ſuch harmony<g ref="char:punc">▪</g>
+                        </l>
+                        <l>That each to other paſſeth readily.</l>
+                        <l>Yea, each of theſe with us hath the ſame lot,</l>
+                        <l>To each we offer that they hurt us not:</l>
+                        <l>And now the <hi>Templers</hi> getting where he was<g ref="char:punc">▪</g>
+                        </l>
+                        <l>The <hi>Devil</hi> to him's no better than an <hi>Aſſe.</hi>
+                        </l>
+                        <l>
+                           <hi>New-gate</hi> and <hi>Temple</hi> are now very near,</l>
+                        <l>To th' <hi>Divel</hi> fro th' <hi>Temple</hi> the way now is clear.</l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <head>
+                        <hi>Cromwell</hi>'s march to Grocers-Hall.</head>
+                     <lg>
+                        <l>ROom, room, make room, for your great General,</l>
+                        <l>That on his march is now to <hi>Grocers-Hall:</hi>
+                        </l>
+                        <l>His Rufties, and his Mufties, making way,</l>
+                        <l>With bare teeth, fore him to a City fray,</l>
+                        <l>And, as he rideth, he ducketh, the boyes to court,</l>
+                        <l>Whilſt they of this his courtſhip make them ſport;</l>
+                        <l>Only a <hi>Butcher,</hi> a true well-bred Lown,</l>
+                        <l>In Waſtecoats, red as <hi>Bradſhaw</hi>'s Scarlet Gown;</l>
+                        <l>Within a Coach thinking he had ſeen his Fere,</l>
+                        <l>Would <hi>Rumps</hi> and <hi>Kidneys</hi> fain have chang'd with her.</l>
+                        <l>But on they go, and got the <hi>Hall</hi> within,</l>
+                        <l>Their brains with <hi>Sack</hi> well warm'd, there doth begin</l>
+                        <l>A Fray, enflam'd with many a well fill'd Glaſs,</l>
+                        <l>As thereto th'Counter-ſcuffle is an <hi>Aſſe.</hi>
+                        </l>
+                        <l>Cuſhions, their breeches till now ne'r did know;</l>
+                        <l>Now valiantly they at each other throw.</l>
+                        <pb n="17" facs="tcp:58011:9"/>
+                        <l>And <hi>Atkins</hi> hath out-flung with that ſmart ſpring,</l>
+                        <l>And its guts 'bouts his eares ſo fluttering;</l>
+                        <l>That Sack and it, ſo dye his chops in red,</l>
+                        <l>No guts in's breech he hath left him, leſs in's head.</l>
+                        <l>And now enough hath each of Pepper-grains,</l>
+                        <l>Whilſt <gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ch <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Nutmegs yet, to coole his brains.</l>
+                        <l>And in their Lords Coach ſet is ſuc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> a ſpoak,</l>
+                        <l>That now he needs wheels moſt, they all are broak.</l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <head>Grand Signieur and his Baſhaws.</head>
+                     <lg>
+                        <l>GRand <hi>Signieur Cromwell</hi> now himſelf bewail<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</l>
+                        <l>For ſpreading ſo fa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>re's grander <hi>Baſhaws</hi> ſailes;</l>
+                        <l>For now, for want of <hi>Ballaſt,</hi> every day,</l>
+                        <l>Each the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r great Maſters threates to over-ſway:</l>
+                        <l>Yea ſo farre are they now with him to bring,</l>
+                        <l>In no wiſe will they hear of's being King.</l>
+                        <l>Mean time, whilſt we in <hi>Coffee</hi> 
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aily he<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lth,</l>
+                        <l>To make good w' have a <hi>Turkiſh</hi> Common-wealth;</l>
+                        <l>And with our <hi>Turkiſh</hi> manners now we ſee,</l>
+                        <l>This <hi>Turkiſh Phtheſeude</hi> ſo well to agree:</l>
+                        <l>Come fort<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, for God's ſake, all you Chriſtian Kings:</l>
+                        <l>And clip this great <hi>Turks,</hi> with his <hi>Baſhaws</hi> wings;</l>
+                        <l>And do a work, may well become you t'own,</l>
+                        <l>Settle an exile brother on his Throne.</l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <pb n="18" facs="tcp:58011:10"/>
+                     <head>Upon the fall of the Stair of the <hi>Banquetting-houſe.</hi>
+                     </head>
+                     <lg>
+                        <l>THe <hi>Janiſaryes</hi> to their grand <hi>Signieur</hi> come,</l>
+                        <l>To viſite, as to viſite <hi>Mecha</hi>'s <hi>Tombe.</hi>
+                        </l>
+                        <l>No ſooner hath the Viſier the room entred</l>
+                        <l>Of's great Lords preſence, and there boldl'adventred</l>
+                        <l>To make's addreſs, the reſt now on the ſtairs,</l>
+                        <l>To drink in, what he ſpews with greedy eares:</l>
+                        <l>But now they gotten up unto their height,</l>
+                        <l>Soon ſink thoſe ſtairs under their ſinfull weight.</l>
+                        <l>Examine their Religious very winde,</l>
+                        <l>As ſteady as beſt of all them ſhall you find.</l>
+                        <l>Their villany is that, which ſinks them dead</l>
+                        <l>To th'deep <hi>Abyſſe,</hi> as Talents may of Lead.</l>
+                        <l>And maketh mean time their white, indeed <hi>Blacks Hall</hi>
+                        </l>
+                        <l>No other than a Creeples <hi>Hoſpitall:</hi>
+                        </l>
+                        <l>Where heads are broak, and arms, and legs, and thighs;</l>
+                        <l>But necks kept for a <hi>Tiburn</hi> ſacrifice.</l>
+                        <l>We cannot of that ſad diſaſter hear</l>
+                        <l>In the <hi>Black-Friars,</hi> and not ſhed a tear.</l>
+                        <l>For that, though th' Sufferers were o'th' <hi>Romiſh</hi> ſide,</l>
+                        <l>Yet that they were Chriſtians cannot be deny'd.</l>
+                        <l>Such heatheniſh Rebels theſe, whom <hi>Bride-well</hi> ſound,</l>
+                        <l>May in a ſpittle ſick be juſtly found:</l>
+                        <l>And now may y' ſee what 'tis to make your King,</l>
+                        <l>From th' ſame room to paſs to his ſuffering;</l>
+                        <l>And take this for the Firſt-fruits of your doom,</l>
+                        <l>For Crowning thus your King with Martyrdom.</l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <pb n="19" facs="tcp:58011:10"/>
+                     <head>Upon the Authors late leſs of a Parſonage, for a paſsage in an Epiſtle of his to a Sermon lately Printed, pinting <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Knaves eve<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y day turning.</head>
+                     <lg>
+                        <l>TRuth, as of old, ſo much more now's become</l>
+                        <l>Of hatred, ſuch a mother unto ſome,</l>
+                        <l>That, let a man, a Knave, but dare to name,</l>
+                        <l>More wince than that one will, as all the ſame;</l>
+                        <l>So have I heard it be with many ſtring,</l>
+                        <l>No ſooner is one touch'd, but all do ring.</l>
+                        <l>That Cow-babe <hi>Fines,</hi> Fr' a Towr a ſhade can fright,</l>
+                        <l>Dares quarrel yet Patrons undoubted ſight;</l>
+                        <l>And tender he, the leaſt worm dares not harm,</l>
+                        <l>'Gainſt Juſtice yet will ſtoutly lift his arme.</l>
+                        <l>And boldly, blindly, ſentence give that way,</l>
+                        <l>Gold-weights the ſcale of Juſtice he findes ſway;</l>
+                        <l>And <hi>Liſle,</hi> poor Fool, that all th' while <hi>Whitlock</hi> ſate.</l>
+                        <l>His fleering Grinders ne're duſt ope to prate,</l>
+                        <l>Now, like a <hi>Virginal-jack,</hi> he ſtill doth chatter,</l>
+                        <l>Though whether't be in tune, or no, no matter.</l>
+                        <l>Such <hi>Gemini-</hi>keepers are they for this <hi>Iſle,</hi>
+                        </l>
+                        <l>That 'tis <hi>Treſliſle Fines,</hi> as 'tis <hi>Fines Treliſle:</hi>
+                        </l>
+                        <l>So peaceably are theſe two Conſuls bent,</l>
+                        <l>They'l ne're divided be in Argument:</l>
+                        <l>But cauſes 'twixt them ſ' order'd may you ſee,</l>
+                        <l>That 'tis nought elſe, but <hi>K.</hi> me, I'l <hi>K.</hi> thee.</l>
+                        <l>Nor may good men ſee better dayes e're hope,</l>
+                        <l>Till this their ſweet accord end in a Rope.</l>
+                     </lg>
+                     <closer>Amen.</closer>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="dedication">
+                  <pb facs="tcp:58011:11"/>
+                  <pb n="21" facs="tcp:58011:11"/>
+                  <p>
+                     <seg rend="decorInit">T</seg>O his highly esteemed Friend and Couſin, <hi>John,</hi> Lord <hi>Grenvile,</hi> Baron of <hi>Stow,</hi> Earl of <hi>Bath</hi> and <hi>Biddi<g ref="char:EOLhyphen"/>forde,</hi> Lord-warden of the <hi>Stanneryes,</hi> and Lord <hi>Lieutenant</hi> of <hi>Devon</hi> and <hi>Cornwall,</hi> and one of his Majeſties moſt Honourable Privy-Council, and one of the Getlemen of his Bed-Chamber.</p>
+                  <q>Gratior eſt pulchro veniens è corpore virtus;</q>
+                  <l>What by a gracefull is expreſs'd,</l>
+                  <l>Is in mens thoughts more vigorouſly expreſs'd.</l>
+               </div>
+            </front>
+            <body>
+               <div type="poems">
+                  <pb facs="tcp:58011:12"/>
+                  <pb n="23" facs="tcp:58011:12"/>
+                  <div type="poem">
+                     <head>GEORGE THE SECOND, FORERUNNER TO CHARLES <hi>The Second.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <seg rend="decorInit">T</seg>O Good King <hi>Edgar</hi>'s never dying praiſe,</l>
+                        <l>'Tis ſtoried, he to God doth <hi>Temples</hi> raiſe,</l>
+                        <l>
+                           <hi>Monks</hi> for the <hi>Temples,</hi> and that th' <hi>Monks</hi> abide,</l>
+                        <l>Doth for them liberal maintenance provide.</l>
+                        <l>Loe here a <hi>Monk</hi> this <hi>Edgar</hi> doth out-vie,</l>
+                        <l>He breath, without which th' Engliſh Church muſt dye,</l>
+                        <l>Reſtores unto this Church, in that the King,</l>
+                        <l>Its noſtrils breath, he doth home ſafely bring,</l>
+                        <l>Nay <hi>George</hi> as well as <hi>Monk</hi> is he, and hath</l>
+                        <l>
+                           <hi>Dragon Rumpſters</hi> put to endleſs ſcath.</l>
+                        <pb n="24" facs="tcp:58011:13"/>
+                        <l>Go on Great <hi>George,</hi> and make truth once more r.</l>
+                        <l>Greater to make tis than to be a King.</l>
+                        <l>And th' reaſon by every boy is given daily,</l>
+                        <l>Quod tale efficit magis eſt tale.</l>
+                        <l>And ſince of late to our great good unthought,</l>
+                        <l>From t' <hi>Andrews</hi> Croſs, thy ſelf <hi>George</hi> whom th'haſt brought,</l>
+                        <l>As <hi>Boniface</hi> doth on th' Imperial Throne,</l>
+                        <l>Set <hi>Phocas,</hi> which to give yet's not his own;</l>
+                        <l>Whilſt he with univerſal Biſhops name,</l>
+                        <l>Doth <hi>Boniface</hi> throughout the Worlds fame<g ref="char:punc">▪</g>
+                        </l>
+                        <l>Our gracious Soveraign to thee prove a <hi>Carle,</hi>
+                        </l>
+                        <l>
+                           <hi>I</hi> would not have, but Duke of <hi>Albemarle;</hi>
+                        </l>
+                        <l>Let him create thee, yea, let him ſtill live,</l>
+                        <l>More honours of thy worth farre ſhort to give,</l>
+                        <l>And the <hi>George-Garter</hi> let make ſtill appear,</l>
+                        <l>Th' a ſecond Engliſh <hi>George</hi> doſts juſtly hear.</l>
+                        <l>That lately haſt found out a new <hi>Charles-Wain,</hi>
+                        </l>
+                        <l>For transfretating <hi>Charles</hi> thorough the Main.</l>
+                        <l>Nay then th' Kings <hi>Scire</hi> more muſt thy praiſe times ſing,</l>
+                        <l>That but a Prince thee getting, this a King.</l>
+                        <l>Now <hi>Rebel-Scot,</hi> whoſe <hi>Vice-Roy George</hi> did ragin</l>
+                        <l>Of late, too late 'tis to call <hi>George</hi> again;</l>
+                        <l>Nor may <hi>Pharaticks</hi> ever hope more quarrels</l>
+                        <l>To raiſe againſt our Soveraign Lord King <hi>Charles.</hi>
+                        </l>
+                        <l>Yea this, and much more than <hi>I</hi> can ſay,</l>
+                        <l>Was by thee finiſhed, <hi>George</hi> on <hi>Charles</hi> Birth-day.</l>
+                        <l>Now <hi>Lilly</hi> is in his Prognoſticks faded,</l>
+                        <l>And <hi>Wharton</hi>'s Almanack true as he that made it;</l>
+                        <l>Even now about much, each with other face,</l>
+                        <l>And th' former take the latters <hi>New-Gate</hi> place.</l>
+                        <l>And the Fates now obſerve we may decree,</l>
+                        <l>Climbe <hi>Haman</hi> ſhall <hi>Mordecay</hi>'s curſed Tree.</l>
+                        <pb n="25" facs="tcp:58011:13"/>
+                        <l>And baſe <hi>Arguile</hi> according to his merit,</l>
+                        <l>Shall great <hi>Montroſſes</hi> unjuſt fate inherit;</l>
+                        <l>And that the <hi>Den'ſhire</hi> man's the firſt day tryed</l>
+                        <l>A Courtier, now's the <hi>Proverb</hi> verifyed.</l>
+                        <l>Since <hi>Grenvile, Monk,</hi> and <hi>Morris,</hi> bear all date,</l>
+                        <l>Fro' th' ſame Birth-day o' their great Triumvirate.</l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <head>A knotty Dialogue betwixt the Good Lord <hi>Say,</hi> and the Good Earl of <hi>Northampton.</hi>
+                     </head>
+                     <lg>
+                        <l>A Learned ſpeech when many a <hi>Peer</hi> had made</l>
+                        <l>In their own Houſe, according to th' old trade,</l>
+                        <l>Up crawls old <hi>Say,</hi> by ſite of th'Iſle of <hi>Lundee,</hi>
+                        </l>
+                        <l>But by Religion of the Town of <hi>Dundee,</hi>
+                        </l>
+                        <l>And clamours Biſhops, and th'Book of Common-Prayer,</l>
+                        <l>As th'onely Trumpets to this unhallowed war.</l>
+                        <l>To whom up riſeth the compos'd Lord <hi>Compton,</hi>
+                        </l>
+                        <l>And thus (right Son o'th' Church as he is) he mumps him.</l>
+                        <l>Your Lordſhips farre from being in the right,</l>
+                        <l>That Prayer thus, and Biſhops to deſpite.</l>
+                        <l>For not that Prayer the cauſe was, nor the Myter,</l>
+                        <l>But only the Helliſh Spirit of <hi>Jack-Presbyter.</hi>
+                        </l>
+                        <l>And that this true is, you can't choſe but gather,</l>
+                        <l>Peace, Prayer and Miter, being return'd together.</l>
+                        <l>And that our miſeries ſenſibly now ſlack,</l>
+                        <l>Since rooted out is now <hi>New-Elder-Jack.</hi>
+                        </l>
+                        <l>Now <hi>Calvin</hi> may go look for his <hi>(Obey,)</hi>
+                        </l>
+                        <l>Since <hi>Conſtantines</hi> old Biſhops now're to ſway:</l>
+                        <pb n="26" facs="tcp:58011:14"/>
+                        <l>Nay reaſon now ſhall we all have to ſing,</l>
+                        <l>We Lawn-ſleeves, Surplice, Croſſe, we'l have and Ring.</l>
+                        <l>And now our Church to collective old <hi>Fines,</hi>
+                        </l>
+                        <l>Shall ſay, thou ſha'nt profane what ere mine is.</l>
+                        <l>Now <hi>Preſters</hi> teeth ſo dull'd are, he can't bite,</l>
+                        <l>And th' Mask is pull'd off from this Hypocrite.</l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <head>Upon ſome of the late Kings Judges.</head>
+                     <lg>
+                        <l>
+                           <hi>ATkins,</hi> that haſt thought it th'greateſt height of art,</l>
+                        <l>To ſweeten with the beſt perfume a Fart.</l>
+                        <l>Thou ne're thought'ſt of taſting the waters of <hi>Marah,</hi>
+                        </l>
+                        <l>Till the Trump now for <hi>Tiburn</hi> ſounds <hi>Tarah, rah, rah, rah.</hi>
+                        </l>
+                        <l>Lords <hi>Tichburn</hi> and <hi>Ireton,</hi> that as ſharp were as Verjuice</l>
+                        <l>In ſhuting up th'Church-doors 'gainſt our <hi>Chriſtmas</hi> ſer<g ref="char:EOLhyphen"/>vice;</l>
+                        <l>You ne'r thought of taſting the waters of <hi>Marah,</hi>
+                        </l>
+                        <l>Till the Trump now for <hi>Tiburn</hi> ſounds <hi>Tarah, rah, rah, rah.</hi>
+                        </l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <head>Upon the Author's Twelve pound Biſhoprick at <hi>Maribone,</hi> Given him by <hi>John Foreſet</hi> Eſquire.</head>
+                     <lg>
+                        <l>THe leaneſs of my Biſhoprick let none deride,</l>
+                        <l>Since th' better part by <hi>Fore-ſets</hi> ſet aſide.</l>
+                        <l>This Seas yet pulſe, and water, me more clear,</l>
+                        <l>Than th<g ref="char:punc">▪</g>richeſt wines, and all the daintieſt fare,</l>
+                        <l>That the moſt errant, rageing, Tyrants boord.</l>
+                        <l>With all its greateſt gayties can afford.</l>
+                        <l>But why the Biſhops ſea's call'd <hi>Maribone,</hi>
+                        </l>
+                        <l>Mens ſeveral fancies are not like, leſs one.</l>
+                        <pb n="27" facs="tcp:58011:14"/>
+                        <l>That <hi>Maribones</hi> 'tis call'd fro' a bone of Marrow,</l>
+                        <l>Is a conjecture that is much too narrow;</l>
+                        <l>Of all conjectures that is true alone;</l>
+                        <l>From <hi>Maria bona</hi> tis call'd <hi>Marybone.</hi>
+                        </l>
+                     </lg>
+                     <argument>
+                        <p>Scripſit Didimus Bullingerus Epiſcopus <hi>Maribonenſis.</hi> An<g ref="char:EOLhyphen"/>nis, 56, 57, 58, 59. 60. Ipſe natus ſex pluſquam ſexaginta.</p>
+                     </argument>
+                  </div>
+                  <div type="poem">
+                     <lg>
+                        <l>Now th'Church robbing <hi>Major,</hi> with his more holy Horſe,</l>
+                        <l>Thought y'had made a Covenant with Lady <hi>Mors.</hi>
+                        </l>
+                        <l>You ne're thought of taſting the waters of <hi>Marah,</hi>
+                        </l>
+                        <l>Till the Trump now for <hi>Tiburn</hi> ſounds <hi>Tarah, rah, rah, rah.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Thou Lord <hi>Say</hi> and <hi>Seal</hi> doſt ſo ſharply inveigh</l>
+                        <l>'Gainſt the holy Book, whereby daily we pray;</l>
+                        <l>Thou ne're thoughtſt of taſting the waters of <hi>Marah,</hi>
+                        </l>
+                        <l>Till the Trump now for <hi>Tiburn</hi> ſounds <hi>Tarah, rah, rah, rah.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Let a man for his perſon be never ſo bold,</l>
+                        <l>Thou <hi>Lambert</hi> canſt prove he may be a Cuckold;</l>
+                        <l>Whilſt thou ne'r thought of taſting the waters of <hi>Ma<g ref="char:EOLhyphen"/>rah,</hi>
+                        </l>
+                        <l>Till the Trump now for <hi>Tiburn</hi> ſounds <hi>Tarah, rah, rah, rah.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Thou <hi>Cromwell</hi> haſt ſwallowed the whole World for a time,</l>
+                        <l>And thoughtſt in bright luſtre th' very Sun to out-ſhine,</l>
+                        <l>But ne're thoughtſt of taſting the waters of <hi>Marah,</hi>
+                        </l>
+                        <l>Till the Trump thee to <hi>Tophet</hi> call all <hi>Tarah, rah, rah, rah.</hi>
+                        </l>
+                     </lg>
+                     <q>Go you curſed, &amp;c. <bibl>Mat. 25. 41.</bibl>
+                     </q>
+                     <q>Nay, but except ye repent, ye ſhall all likewiſe periſh, <bibl>Luke 13. 3.</bibl>
+                     </q>
+                     <q>Qualis vita, Finis ita.</q>
+                  </div>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
